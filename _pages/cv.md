@@ -57,7 +57,7 @@ expectation value of background objects.
 
 Publications
 ======
-  Crotts et al. (2026) \\
+  Crotts et al. (2026) \
   
   Bowens-Rubin et al. (2026)
   
