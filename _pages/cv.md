@@ -18,9 +18,9 @@ Education
 Research experience
 ======
 
-* MPhys Project: [SIDERIS](https://github.com/aiza-kenzhebekova/SIDERIS):
+* MPhys Project: [SIDERIS](https://github.com/aiza-kenzhebekova/SIDERIS)
   * Sept 2025 - April 2026 
-  * I developed a tool that calculates the background object occurrence probability in JWST direct imaging observations.
+  * Developed a tool that calculates the background object occurrence probability in JWST direct imaging observations.
   * Used the JADES and SMILES galaxy catalogues, as well as TRILEGAL simulations to obtain the
 expectation value of background objects.
   * Supervisor: Prof Beth Biller, Dr Ben Suttlieff
