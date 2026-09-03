@@ -57,7 +57,9 @@ expectation value of background objects.
 
 Publications
 ======
-  Crotts et al. (accepted) 
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
   Bowens-Rubin et al. (submitted)
   
