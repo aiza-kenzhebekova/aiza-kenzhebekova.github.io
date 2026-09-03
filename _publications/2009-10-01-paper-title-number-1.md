@@ -3,7 +3,6 @@ title: "JWST NIRCam Reveals the Largest Known M dwarf Debris Disk Around TWA 10 
 collection: publications
 category: manuscripts
 permalink: /publication/2026-09-jwst-nircam-reveals-the-largest-known-m-dwarf-debris-disk
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2026-09-01
 venue: 'The Astrophysical Journal'
 paperurl: 'https://aiza-kenzhebekova.github.io/files/.pdf'
