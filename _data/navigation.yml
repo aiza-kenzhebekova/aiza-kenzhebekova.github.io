@@ -10,7 +10,16 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Personal"
+     url: /personal/
 
+  # - title: "CV"
+  #   url: /cv-json/
+     
 #  - title: "Talks"
 #    url: /talks/    
 
@@ -22,12 +31,3 @@ main:
         
   # - title: "Personal"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-   - title: "Personal"
-     url: /personal/
