@@ -61,5 +61,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  Bowens-Rubin et al. (submitted)
-  
